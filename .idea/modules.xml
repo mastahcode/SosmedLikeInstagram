@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalProjectIAK/FinalProjectIAK.iml" filepath="$PROJECT_DIR$/FinalProjectIAK/FinalProjectIAK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectFinalIAK.iml" filepath="$PROJECT_DIR$/ProjectFinalIAK.iml" />
+    </modules>
+  </component>
+</project>
