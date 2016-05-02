@@ -28,7 +28,7 @@
             android:layout_width="150dp"
             android:layout_height="200dp"
             android:id="@+id/imageView"
-            android:src="@drawable/instagram"
+            android:src="@drawable/mastahcode"
             android:layout_alignParentTop="true"
             android:layout_alignParentStart="true"
             android:layout_marginStart="32dp" />
